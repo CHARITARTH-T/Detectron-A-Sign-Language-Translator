@@ -1,4 +1,4 @@
-# Detectron- A user friendly sign language translator
+# Detectron- A Sign Language Translator
 
 Heya fellas!
 There's a huge advancement in tech in the area of sign language translation, and yes, here's our take on it. 
